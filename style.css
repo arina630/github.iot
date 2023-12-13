@@ -1,0 +1,40 @@
+html {
+    font-size: 10px; /* px значит 'пиксели': базовый шрифт будет 10 пикселей в высоту  */
+    font-family: placeholder: 'Hedvig Letters Serif';
+  }
+
+  h1 {
+    text-align: center;
+    margin: 0;
+    padding: 20px 0;
+    font-size: 60px;
+    color: #fcd1d3;
+    text-shadow: 3px 3px 1px #fd9096;
+  }
+  
+  p,
+  li {
+    font-size: 20px;
+    line-height: 2;
+    letter-spacing: 1px;
+  }
+  
+  html {
+    background-color: #fcd1d3;
+  }
+
+  body {
+    width: 600px;
+    margin: 0 auto;
+    background-color: #fcaed5;
+    padding: 0 20px 20px 20px;
+    border: 5px solid black;
+  }
+
+  img {
+    display: block;
+    margin: 0 auto;
+  }
+  
+  
+  
